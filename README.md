@@ -7,6 +7,8 @@ For this task I would like to put forward some of the algorithms here are possib
 2. The eye recognizes the content of the certificate and identifies that it is a Certificate of Honoring the Trainee.
 3. The robot eye displays a congratulatory message on a screen or through a speaker.
 4. The eye emits flashing lights or changes color to signify celebration or recognition.
+ ![Screen-Shot-2021-12-17-at-2 01 49-pm-1440x806](https://github.com/joudalhef/SM23-IoT04/assets/139080884/242a09b4-84a9-4a03-a0f9-e3b3c5298ef1)
+
 # Algorithm 2
 1. The robot eye detects the certificate using a built-in camera or a sensor.
 2. The eye recognizes the content of the certificate and identifies that it is a Certificate of Honoring the Trainee.
