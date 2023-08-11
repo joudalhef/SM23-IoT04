@@ -23,3 +23,5 @@ For this task I would like to put forward some of the algorithms here are possib
 4. The eye scans and matches the trainee's face with its database or an identification system.
 5. The robot eye displays the trainee's name and photo on a screen with a congratulatory message.
 6. The eye emits flashing lights or changes color to signify celebration or recognition.
+![hq720](https://github.com/joudalhef/SM23-IoT04/assets/139080884/8fcc101c-3d51-4687-8ca8-c427f77faf86)
+
