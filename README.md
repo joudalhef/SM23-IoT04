@@ -14,6 +14,8 @@ For this task I would like to put forward some of the algorithms here are possib
 2. The eye recognizes the content of the certificate and identifies that it is a Certificate of Honoring the Trainee.
 3. The robot eye scans the certificate and records it into its internal memory or a connected database.
 4. The eye saves the information into the trainee's profile or file.
+   <img width="937" alt="Screenshot 2023-08-11 104753" src="https://github.com/joudalhef/SM23-IoT04/assets/139080884/2914e96c-9d88-41de-aa27-71b16fae72b6">
+
 # Algorithm 3
 1. The robot eye detects the certificate using a built-in camera or a sensor.
 2. The eye recognizes the content of the certificate and identifies that it is a Certificate of Honoring the Trainee.
