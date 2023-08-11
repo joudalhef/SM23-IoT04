@@ -1,5 +1,7 @@
 # Introduction
 For this task I would like to put forward some of the algorithms here are possible algorithms that a robot eye can react to a Certificate of Honoring the Trainee:
+<img width="682" alt="Screenshot 2023-08-11 103354" src="https://github.com/joudalhef/SM23-IoT04/assets/139080884/ebdcc911-ed3e-4acd-b7fc-5008117c0dd8">
+
 # Algorithm 1
 1. The robot eye detects the certificate using a built-in camera or a sensor.
 2. The eye recognizes the content of the certificate and identifies that it is a Certificate of Honoring the Trainee.
